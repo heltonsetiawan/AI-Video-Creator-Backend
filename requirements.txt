@@ -1,4 +1,3 @@
 flask
 flask-cors
-# google-generativeai # Tambahkan ini jika Anda akan menggunakan SDK Python Gemini
-# (library RunwayML jika Anda memilihnya)
+google-generativeai
